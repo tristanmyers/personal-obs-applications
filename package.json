@@ -1,0 +1,26 @@
+{
+  "name": "stream-stuff",
+  "version": "1.0.0",
+  "description": "overlays, alerts, bots",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server.js",
+    "start-bot": "node ./chatbot.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "box2d-wasm": "^6.0.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "matter-js": "^0.17.1",
+    "nekos.life": "^2.0.7",
+    "node-fetch": "^3.1.0",
+    "tmi.js": "^1.8.5",
+    "ws": "^8.2.3"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}

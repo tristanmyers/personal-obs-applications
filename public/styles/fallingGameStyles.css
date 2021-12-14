@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding:  0;
+	border:  0;
+}
+
+#nekos-container {
+	display: flex;
+	flex-direction: row;
+	width:  100rem;
+	height:  100px;
+}
+
+#nekos-container img {
+	margin-top: 0%;
+	width:  200px;
+	height:  300px;
+}
+
+.neko-image {
+	padding-right: 10px;
+}
