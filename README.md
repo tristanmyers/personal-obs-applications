@@ -3,7 +3,7 @@
 - Server:
   - serves index.html and websockets connection
 - Chatbot:
-  - listens for commands and emotes to send over websockets to be rendered by Falling Game
-- Falling Game: 
+  - listens for commands and emotes to send over websockets to be rendered by Falling Emotes Game
+- Falling Emotes Game: 
   - gets emotes from websockets connection and renders them with physics, making them fall from the sky
-  <img src="https://imgur.com/3WbzjRi" alt="gif showing demo of falling game in action">
+  - [video of falling game in action](https://i.imgur.com/3WbzjRi.mp4)
