@@ -10,7 +10,7 @@ bttv api: https://gist.github.com/chuckxD/377211b3dd3e8ca8dc505500938555eb
 7tv api: https://github.com/SevenTV/EventAPI
 streamelements api: https://dev.streamelements.com/docs/kappa/b3A6NTM5NzEzNA-channel-emotes
 
-### features to add
+#### features to add
 #### falling game
 - [ ] control panel
 	- clear emotes
@@ -19,4 +19,4 @@ streamelements api: https://dev.streamelements.com/docs/kappa/b3A6NTM5NzEzNA-cha
 #### chatbot
 - [ ] random number generator
 - [ ] coin flip
-- [ ] lurk
+- [x] lurk
