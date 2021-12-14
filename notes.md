@@ -1,9 +1,9 @@
 ### todo
-[x] clean up file names and code
-[x] make code into external files for easier development
-[] make starting server and chatbot easier 
-[] make sure server doesn't execute harmful code from chat
-[] look into making emotes objects for easy customizability
+- [x] clean up file names and code
+- [x] make code into external files for easier development
+- [ ] make starting server and chatbot easier 
+- [ ] make sure server doesn't execute harmful code from chat
+- [ ] look into making emotes objects for easy customizability
 
 ### future api use
 bttv api: https://gist.github.com/chuckxD/377211b3dd3e8ca8dc505500938555eb
@@ -12,11 +12,11 @@ streamelements api: https://dev.streamelements.com/docs/kappa/b3A6NTM5NzEzNA-cha
 
 ### features to add
 #### falling game
-[] control panel
+- [ ] control panel
 	- clear emotes
 	- physics controller
-[] third party emotes
+- [ ] third party emotes
 #### chatbot
-[] random number generator
-[] coin flip
-[] lurk
+- [ ] random number generator
+- [ ] coin flip
+- [ ] lurk
