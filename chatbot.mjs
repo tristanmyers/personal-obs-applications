@@ -12,7 +12,7 @@ const opts = {
 		username: "tottersbot",
 		password: `oauth:${botAuth}`
 	},
-	channels: ["totertats"]
+	channels: ["xqcow"]
 };
 
 const client = new tmi.client(opts);
